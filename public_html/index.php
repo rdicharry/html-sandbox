@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head lang="en">
-		<meta charset="UTF-8">
+		<meta charset="UTF-8"/>
+		<!-- add a CSS file -->
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
@@ -15,7 +17,7 @@
 			<!-- begin section 1 -->
 			<section>
 				<p>
-					Pea horseradish azuki bean lettuce avocado asparagus okra. Kohlrabi radish okra azuki bean corn fava bean mustard tigernut jÃ­cama green bean celtuce collard greens avocado quandong fennel gumbo black-eyed pea. Grape silver beet watercress potato tigernut corn groundnut. Chickweed okra pea winter purslane coriander yarrow sweet pepper radish garlic brussels sprout groundnut summer purslane earthnut pea tomato spring onion azuki bean gourd. Gumbo kakadu plum komatsuna black-eyed pea green bean zucchini gourd winter purslane silver beet rock melon radish asparagus spinach.
+					Pea horseradish azuki bean lettuce avocado asparagus okra. Kohlrabi radish okra azuki bean corn fava bean mustard tigernut jicama green bean celtuce collard greens avocado quandong fennel gumbo black-eyed pea. Grape silver beet watercress potato tigernut corn groundnut. Chickweed okra pea winter purslane coriander yarrow sweet pepper radish garlic brussels sprout groundnut summer purslane earthnut pea tomato spring onion azuki bean gourd. Gumbo kakadu plum komatsuna black-eyed pea green bean zucchini gourd winter purslane silver beet rock melon radish asparagus spinach.
 				</p>
 				<img src="img/molecule.png" alt="Caffeine and cAMP">
 			</section>
